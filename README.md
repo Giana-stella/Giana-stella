@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Giana-stella
-- 👀 I’m interested in slow travel, environmental solutions, nature (animals and plants), education
-- 🌱 I’m currently improving my web development skills and knowledge
-- 💞️ I’m looking to collaborate on projects involving javascript, google apps script, html, css, wordpress, google sites
+- 👀 I’m interested in web design and development, slow travel, environmental solutions, marine biology, languages, art
+- 🌱 I’m constantly improving my web development skills and knowledge
+- 💞️ I’m looking to collaborate on projects involving html, css, javascript, google apps script, wordpress, google sites, wordpress
 - 📫 How to reach me: gio.scotolati@gmail.com
 
 <!---
