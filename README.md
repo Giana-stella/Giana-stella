@@ -3,6 +3,7 @@
 - 🌱 I’m constantly improving my web development skills and knowledge
 - 💞️ I’m looking to collaborate on projects involving html, css, javascript, google apps script, wordpress, google sites, wordpress
 - 📫 How to reach me: gio.scotolati@gmail.com
+- website: https://giovannastellawebdesign.com/main/
 
 <!---
 Giana-stella/Giana-stella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
